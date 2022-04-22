@@ -8,3 +8,5 @@ Some more interesting notes that are important.
 This too is interesting!
 
 another new line.
+
+ADDING A LINE IN ALL CAPS!
